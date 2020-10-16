@@ -1,4 +1,4 @@
-# Responsive-Site
+# Landing page
 A responsive landing page i created for mobile device.
 Mostly used :
 
